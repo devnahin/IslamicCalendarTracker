@@ -174,7 +174,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-600 mt-6 pt-6 text-center text-sm text-gray-400">
-            <p>&copy; 2023 Islamic Calendar App. Made with ❤️ for the Muslim community.</p>
+            <p>&copy; 2025 Islamic Calendar App. Made with ❤️ for the Muslim community. Created by A. Zawad</p>
           </div>
         </div>
       </footer>
